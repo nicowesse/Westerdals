@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"border",
+				"border-left-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"art",
+				"$artworks〔variable〕"
+			],
+			[
+				"artwork",
+				"$artwork_nr〔variable〕"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"base",
+				"base-paragraph-size"
+			],
+			[
+				"para",
+				"base-paragraph-size"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"trans",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"rece",
+				"$recent_posts〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"next",
+				"next_post"
+			],
+			[
+				"thumbna",
+				"$thumbnail_url〔variable〕"
+			],
+			[
+				"posts",
+				"$posts_per_page〔variable〕"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"timeline",
+				"timeline__caption"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"hotspot",
+				"hotspot__icon__inner"
+			],
+			[
+				"fms",
+				"fms_light"
+			],
+			[
+				"fms_dark",
+				"fms_dark-grey"
+			],
+			[
+				"fms_",
+				"fms_light"
+			],
+			[
+				"hotspot__con",
+				"hotspot__container"
+			],
+			[
+				"time",
+				"timeline__caption"
+			],
+			[
+				"slide",
+				"slideDown〔function〕"
+			],
+			[
+				"view",
+				"viewportWidth〔variable〕"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"scroll",
+				"scrollLeft	.scrollLeft()"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"z-inde",
+				"z-index-4"
+			],
+			[
+				"z-index",
+				"z-index"
+			],
+			[
+				"pointer",
+				"pointer-events"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/MAMP/htdocs/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 8088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/index.php",
+			"settings":
+			{
+				"buffer_size": 6095,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/assets/fonts/material-icons/materialdesignicons.css",
+			"settings":
+			{
+				"buffer_size": 34312,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nicolay/Downloads/matthewhartman-base-94e137e 2/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package install packa",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package sy",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"package syn",
+				"Package Syncing: Enable Syncing"
+			]
+		],
+		"width": 714.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs",
+		"/Applications/MAMP/htdocs/assets",
+		"/Applications/MAMP/htdocs/assets/css",
+		"/Applications/MAMP/htdocs/assets/fonts",
+		"/Applications/MAMP/htdocs/assets/fonts/material-icons",
+		"/Applications/MAMP/htdocs/assets/js",
+		"/Applications/MAMP/htdocs/assets/scss",
+		"/Applications/MAMP/htdocs/assets/scss/components"
+	],
+	"file_history":
+	[
+		"/Users/nicolay/Downloads/material-design-iconic-font/css/material-design-iconic-font.css",
+		"/Applications/MAMP/htdocs/assets/scss/normalize.scss",
+		"/Applications/MAMP/htdocs/assets/scss/base/_base.scss",
+		"/Applications/MAMP/htdocs/assets/scss/helpers/_media-queries.scss",
+		"/Applications/MAMP/htdocs/assets/scss/layout/_page.scss",
+		"/Applications/MAMP/htdocs/assets/scss/helpers/_variables.scss",
+		"/Applications/MAMP/htdocs/assets/fonts/material-icons/materialdesignicons.css",
+		"/Applications/MAMP/htdocs/assets/scss/vendors/typebase.scss",
+		"/Applications/MAMP/htdocs/assets/scss/main.scss",
+		"/Applications/MAMP/htdocs/scss/app.scss",
+		"/Applications/MAMP/htdocs/assets/scss/components/_c-artwork.scss",
+		"/Applications/MAMP/htdocs/assets/scss/helpers/_keyframes.scss",
+		"/Applications/MAMP/htdocs/assets/scss/base/_media-queries.scss",
+		"/Applications/MAMP/htdocs/assets/scss/vendors/toast.scss",
+		"/Users/nicolay/Downloads/matthewhartman-base-94e137e 2/scss/base/_blockquotes.scss",
+		"/Users/nicolay/Downloads/matthewhartman-base-94e137e 2/scss/base/_variables.scss",
+		"/Applications/MAMP/htdocs/css/app.css",
+		"/Users/nicolay/Web/Git/nw-beta/footer.php",
+		"/Users/nicolay/Web/Git/nw-beta/single.php",
+		"/Users/nicolay/Web/Git/nw-beta/index.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/js/main.js",
+		"/Users/nicolay/Web/Git/nw-beta/assets/css/main.css",
+		"/Users/nicolay/Web/Git/nw-beta/assets/css/main.css.map",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/vendors/flexslider.scss",
+		"/Users/nicolay/Web/Git/nw-beta/category.php",
+		"/Users/nicolay/Web/Git/nw-beta/header.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/vendors/typebase.scss",
+		"/Users/nicolay/Web/Git/nw-beta/functions.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/main.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/helpers/_keyframes.scss",
+		"/Users/nicolay/Web/Git/nw-beta/comments.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/components/_c-content.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/components/_c-pagination.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/components/_c-post.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/layout/_page.scss",
+		"/Users/nicolay/Web/Git/nw-beta/author.php",
+		"/Users/nicolay/Web/Git/nw-beta/archive.php",
+		"/Users/nicolay/Web/Git/nw-beta/404.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/base/_grid.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/vendors/normalize.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/normalize.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/components/_buttons.scss",
+		"/Users/nicolay/Web/Git/nw-beta/inc/template-tags.php",
+		"/Users/nicolay/Web/Git/nw-beta/content.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/helpers/_colors.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/js/vendor/jquery.sticky.js",
+		"/Users/nicolay/Web/Git/nw-beta/page.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/css/normalize.css",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/base/_base.scss",
+		"/Users/nicolay/Web/Git/nw-beta/templates/home.php",
+		"/Users/nicolay/Web/Git/nw-beta/humans.txt",
+		"/Users/nicolay/Web/Git/nw-beta/bower_components/object-fit/dist/polyfill.object-fit.css",
+		"/Users/nicolay/Web/Git/nw-beta/content-none.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/layout/_header.scss",
+		"/Users/nicolay/Web/Git/nw-beta/image.php",
+		"/Users/nicolay/Web/Git/nw-beta/search.php",
+		"/Users/nicolay/Web/Git/nw-beta/assets/fonts/material-icons/materialdesignicons.css",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/css/typebase.css",
+		"/Users/nicolay/Web/Git/nw-beta/content-page.php",
+		"/Users/nicolay/Web/Git/nw-beta/index.html",
+		"/Users/nicolay/Web/Git/nw-beta/searchform.php",
+		"/Users/nicolay/Web/Git/nw-beta/tag.php",
+		"/Users/nicolay/Web/Git/nw-beta/style.css",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/helpers/_variables.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/base/_typography.scss",
+		"/Users/nicolay/Downloads/typeplate-sk/_typeplate.scss",
+		"/Users/nicolay/Downloads/typeplate-sk/_typeplate-styles.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/helpers/_mixins.scss",
+		"/Users/nicolay/Web/Git/nw-beta/sftp-config.json",
+		"/Users/nicolay/Web/Git/flexboxgrid/src/css/flexboxgrid.css",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/layout/_grid.scss",
+		"/Users/nicolay/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/partials/_header.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/partials/_grid.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/partials/_footer.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/partials/_navigation.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/partials/_forms.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/helpers/_functions.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/helpers/_helpers.scss",
+		"/Users/nicolay/Web/Git/nw-beta/assets/sass/vendors/_normalize.scss",
+		"/Users/nicolay/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/nicolay/Web/Git/flexboxgrid/dist/flexboxgrid.css",
+		"/Users/nicolay/Web/Prosjektfiler/fno-innsats-timeline/index.html",
+		"/Users/nicolay/Web/Prosjektfiler/fno-innsats-timeline/assets/js/main.js",
+		"/Users/nicolay/Web/Prosjektfiler/fno-innsats-timeline/assets/sass/main.scss",
+		"/Users/nicolay/Web/Prosjektfiler/fno-innsats-timeline/assets/css/main.css",
+		"/Users/nicolay/Web/Prosjektfiler/fno-innsats-timeline/sftp-config.json",
+		"/Users/nicolay/Web/Prosjektfiler/fno-innsats-timeline/assets/js/jquery.viewport.js",
+		"/Users/nicolay/Web/Prosjektfiler/fno-innsats-timeline/assets/js/jquery.isonscreen.js",
+		"/Users/nicolay/Web/Prosjektfiler/nicowesse-beta/assets/js/main.js",
+		"/Users/nicolay/Library/Application Support/Sublime Text 3/Packages/Default/Default ().sublime-keymap"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</a>",
+			"<a",
+			"a",
+			"../",
+			"face",
+			"steel",
+			"aside",
+			"off-white",
+			"background",
+			"25",
+			"c-content__thumbnail",
+			"l-",
+			"animation",
+			"baseLineHeight",
+			"--post__",
+			"--post",
+			"1rem",
+			"$baseFontSize",
+			"jet",
+			"$dark",
+			"$light",
+			"light",
+			"post",
+			"80",
+			"// ",
+			"site",
+			"blockquote",
+			"partials",
+			"-xs",
+			", 0.5rem )",
+			"var( ",
+			"--",
+			" *  --",
+			"layout",
+			"utils",
+			"timeline__blocks",
+			"\"hotspot__icon\"",
+			"hotspot__icon",
+			"\"hotspot\"",
+			"hotspot",
+			"200",
+			"1920x840",
+			"windowWidth",
+			"800x400",
+			"z-index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/htdocs/assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2021.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Applications/MAMP/htdocs/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4035,
+								4035
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1036.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/MAMP/htdocs/assets/fonts/material-icons/materialdesignicons.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 34312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28364,
+								28360
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nicolay/Downloads/matthewhartman-base-94e137e 2/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 110.0
+	},
+	"project": "westerdals-b2.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
